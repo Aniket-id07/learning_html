@@ -1,0 +1,13 @@
+  h2{
+            color: brown !important;
+            background-color: yellow !important;
+        }
+     .b_shadow{
+            box-shadow: 4px 8px 6px rgb(9, 0, 0);
+        }
+        .t_center{
+    text-align: center;
+    color:black;
+    text-decoration:underline;
+   font-size: 30px;
+}

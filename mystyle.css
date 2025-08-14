@@ -1,0 +1,23 @@
+body{
+    background-image: url(images/hotel\ backgroound\ image.jpg); height: 250px;
+}
+h2{
+    color: #000;
+    background-color:burlywood;
+}
+h1{
+    color:black;
+    
+}
+.t_color{
+    text-decoration-color: black;
+}
+.t_center{
+    color:black;
+    text-decoration:underline;
+   font-size: 30px;
+   background-color: yellow;
+   width: 500px;
+   text-align: center;
+   text-shadow: 4px 8px 6px gray;
+}
