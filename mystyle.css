@@ -12,12 +12,19 @@ h1{
 .t_color{
     text-decoration-color: black;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .t_center{
     color:black;
     text-decoration:underline;
    font-size: 30px;
    background-color: yellow;
    width: 500px;
-   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
    text-shadow: 4px 8px 6px gray;
 }
